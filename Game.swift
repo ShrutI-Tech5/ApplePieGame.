@@ -2,7 +2,7 @@
 //  Game.swift
 //  Apple Pie
 //
-//  Created by Sim Yong Seng on 26/3/19.
+//  Created by Shruti.
 //  Copyright © 2019 Sim Yong Seng. All rights reserved.
 //
 
