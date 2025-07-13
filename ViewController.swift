@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Apple Pie
 //
-//  Created by Sim Yong Seng on 13/3/19.
-//  Copyright © 2019 Sim Yong Seng. All rights reserved.
+//  Created by Shruti
+//  Copyright © 2025 shruti. All rights reserved.
 //
 
 import UIKit
